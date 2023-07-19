@@ -1,5 +1,5 @@
 # Work in progress ⚠️
-- Study creator for the experience sampling app of the LMU Tellmi (not open source yet)
+**Study creator for the experience sampling app of the LMU Tellmi (not open source yet)**
 
 You can...
 - edit study settings
